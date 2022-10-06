@@ -1,7 +1,8 @@
 <h2 align="center"> 
     Laravel & Vue.js Blog admin panel
 </h2>
-<h5 align="center">Fontend & Banckend </h5>
+
+<img src="./preview.png">
 
 This is full stack Laravel & Vue.js Blog admin panel project developed by Biplob Shaha. Admin panel & Frontend both are build with Vue js (spa) 
 
